@@ -1,8 +1,8 @@
 {
-   "status":false,
+   "status":true,
    "status_check_google":true,
-   "start_day_check":"14",
-   "end_day_check":"20",
+   "start_day_check":"1",
+   "end_day_check":"1",
    "check_installation":true,
    "day_of_installation":0,
    "link_wa":"https://api.whatsapp.com/send?phone=855964334214",
